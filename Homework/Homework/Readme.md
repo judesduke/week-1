@@ -6,8 +6,8 @@
 # Questions
 * Why we need "if-else" in function process?
 
-Answer:
-
-
+Answer: because to using calculate factorial number for sum in "result" variable.
+Commit id program.cs : f2e9fdfd 
+Commit id Readme.md : 
 # Resources
 * https://en.wikipedia.org/wiki/Recursion_(computer_science)
