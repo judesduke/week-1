@@ -8,6 +8,6 @@
 
 Answer: because to using calculate factorial number for sum in "result" variable.
 Commit id program.cs : f2e9fdfd 
-Commit id Readme.md : 
+Commit id Readme.md : 2059091a
 # Resources
 * https://en.wikipedia.org/wiki/Recursion_(computer_science)
